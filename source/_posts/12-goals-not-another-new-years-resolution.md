@@ -8,7 +8,7 @@ tags:
 ---
 Well, It's the beginning of a new year yet again. The time when we look back at the crater-pocked wasteland that was the last 12 months and wonder "what the heck just happened?" We declare in that moment that we're going to make some changes or "resolutions". Maybe we're going to eat better or lose a few pounds or start writing that novel we've always wanted to write. The problem is that 2 or 3 weeks later the gyms are empty, the fast food joints are hopping again and the keyboard is collecting dust.
 
-!["New Year's resolutions don't usually pan out"](http://jonwhite.me/wp-content/uploads/2016/01/MjAxMy0xNzNiM2M3ZjMxODM2YWZi.png "New Year's resolutions don't usually pan out")
+!["New Year's resolutions don't usually pan out"](/images/resolutions.png "New Year's resolutions don't usually pan out")
 
 Usually, these goals are very generic and difficult to quantify which usually leads to failure. That's why this year I'm trying something a little different. Instead of making some year-long, generic resolutions I'm going to make 12 1-month commitments that are quantifiable and maintainable. I'm not sure what all of the goals are going to be yet (I have a list that I'll pull from each month) The ultimate goal is that I'll achieve each of my 12 goals throughout the year but one of the nice side-effects of this approach is that even if I'm only successful in 25% of my goals that's still 4 successes. I'm hoping to report on the progress of each goal about halfway through and then again at the end of each month where I'll decide if I was successful or not and decide on the next months goal.
 
