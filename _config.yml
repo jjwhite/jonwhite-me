@@ -65,10 +65,19 @@ disqus_shortname: jonwhite
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
+
 ## Themes: https://hexo.io/themes/
 theme: JWlandscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: ftpsync
+  host: jonwhite.me
+  user: 49913838-jonwhite
+  pass: Elleirb0628
+  remote: /
+  port: 21
+  ignore:
+  connections: 1
+  verbose: true

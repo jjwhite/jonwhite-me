@@ -2,8 +2,8 @@
 
 title: "12 Goals: Not Another New Year's Resolution"
 date: 2016-01-07 12:29:15
-
-tags:
+tags: goals
+category: 12 Goals
 
 ---
 Well, It's the beginning of a new year yet again. The time when we look back at the crater-pocked wasteland that was the last 12 months and wonder "what the heck just happened?" We declare in that moment that we're going to make some changes or "resolutions". Maybe we're going to eat better or lose a few pounds or start writing that novel we've always wanted to write. The problem is that 2 or 3 weeks later the gyms are empty, the fast food joints are hopping again and the keyboard is collecting dust.
