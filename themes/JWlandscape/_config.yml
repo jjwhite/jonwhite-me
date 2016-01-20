@@ -2,6 +2,7 @@
 menu:
   Home: /
   About: /about
+  My Work: /my-work
   Archives: /archives
 rss: /atom.xml
 
