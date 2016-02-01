@@ -25,6 +25,10 @@ This will spin up a local web server at localhost:4000 where you can view your s
 	
 This will create your HTML website. It's then a simple matter of publishing the generated site to your webserver.  There are built-in deployment commands that can publish your site automatically but I've had mixed results trying to deploy in this way.
 
+### Themes
+
+One area that I haven't spent too much time playing around with yet is themes.  There are a number of themes available for download on the [Hexo themes page](https://hexo.io/themes/) but I have yet to dive into creating my own theme as of yet.  There's a good chance that I will do that in the future and I'll be sure to post about the process.
+
 ### Hexo Pros
 
 * No database or server-side code to deal with!
