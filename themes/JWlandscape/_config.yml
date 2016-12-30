@@ -3,13 +3,14 @@ menu:
   Home: /
   About: /about
   My Work: /my-work
+  Portfolio: /portfolio
   Now: /now
   Archives: /archives
 rss: /atom.xml
 
 # Content
 excerpt_link: Read More
-fancybox: true
+fancybox: false
 
 # Sidebar
 sidebar: right
