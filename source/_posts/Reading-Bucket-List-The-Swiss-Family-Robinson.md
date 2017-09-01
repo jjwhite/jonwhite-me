@@ -11,6 +11,7 @@ category: Book Reviews
 
 The story spins out as a series of lessons masquerading as adventures that teach all kinds of things from how get sugar out of a fictional sugarcane plant, to creating shoes, to training all sorts of animals.  Although the individual lessons are mostly useless in the modern world (and probably even if you were stranded on a deserted island), the major underlying points regarding the evils of idleness, cooperation, and self-sufficiency are always in the background making themselves known.  In fact, Wyss cleanly summarizes his own story with an excellent statement near the very end of the book:
 
+
 > Children are, on the whole, very much alike everywhere, 
 > and you four lads fairly represent multitudes, who are 
 > growing up in all directions. It will make me happy to think 
