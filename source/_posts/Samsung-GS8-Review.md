@@ -1,7 +1,9 @@
 ---
 title: "Samsung Galaxy S8+: A Review"
 date: 2017-10-11
-tags: review, gadgets
+tags: 
+ - reviews
+ - gadgets
 category: Tech
 ---
 
